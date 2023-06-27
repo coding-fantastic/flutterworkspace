@@ -1,0 +1,17 @@
+# Flutter-specific exclusions
+build/
+.dart_tool/
+.idea/
+.vscode/
+.pub-cache/
+/android/build/
+/ios/build/
+/android/gradle/
+/ios/Pods/
+
+# macOS specific
+.DS_Store
+
+# Optional exclusions
+/test/
+/example/
